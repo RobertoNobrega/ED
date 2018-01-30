@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517272877 source:c:\windows_10_ano_2018\ufpb\ciência da computação\2015 1\estrutura de dados\revendo_ed\lista_se\main.c
+	"lista_SE.h"
+	<locale.h>
+	<stdio.h>
+
+1517272766 c:\windows_10_ano_2018\ufpb\ciência da computação\2015 1\estrutura de dados\revendo_ed\lista_se\lista_se.h
+
+1517272607 source:c:\windows_10_ano_2018\ufpb\ciência da computação\2015 1\estrutura de dados\revendo_ed\lista_se\lista_se.c
+	"lista_SE.h"
+	<stdlib.h>
+	<stdio.h>
+
